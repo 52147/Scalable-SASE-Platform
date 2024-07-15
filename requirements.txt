@@ -1,0 +1,8 @@
+Django>=4.2.14
+djangorestframework
+psycopg2-binary
+celery
+redis
+django-redis
+django-celery-beat
+django-celery-results
